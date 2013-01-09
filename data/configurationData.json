@@ -1,0 +1,25 @@
+{
+	"config":{
+		"version":1
+	},
+	"sets":[
+		{
+			"name":"SetA",
+			"words":[
+				{
+					"name":"font",
+					"randomLetters":2,
+					"lines":[0,15,60,75],
+					"letters":[
+						{"x":0,"y":0},
+						{"x":41,"y":15},
+						{"x":88,"y":15},
+						{"x":135,"y":7}
+					]
+				}
+			
+				
+			]
+		}
+	]
+}
